@@ -1,2 +1,2 @@
 # Names
-A name API with python and SQL database.
+A name API with Python, Flask and SQL database.
